@@ -1,0 +1,21 @@
+
+*{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: white;
+}
+* h1{
+    background-color: rgb(148, 196, 223);
+    color:rgb(76, 76, 205);
+    font-size: 25px;
+}
+
+.imagedog img{
+    width:200px;
+    height:auto;
+    position:absolute;
+    top:74px;
+    right:0;
+}
+.links{
+    font-size: 30px;
+}
